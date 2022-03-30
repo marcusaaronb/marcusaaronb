@@ -11,6 +11,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=marcusaaronb&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusaaronb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcusaaronb&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
