@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Kubo IT Consultancy.
 - 🌱 I’m currently learning Flutter/Dart.
 - 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with Flutter Development.
+- 🤔 I’m looking for help with Flutter Development or AWS Server Management.
 - 💬 Ask me about Laravel API, VueJS & NuxtJS, MySQL, Digital Ocean Server Management or any tech related stuff.
 - 📫 How to reach me: [Facebook - @marcusaaronb](https://www.facebook.com/marcusaaronb) , [Youtube - @kubopro](https://www.youtube.com/channel/UCT0FMRqjq5BSLgVVB5D-8BQ)
 - 😄 Pronouns: He/His
