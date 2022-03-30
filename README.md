@@ -1,7 +1,7 @@
 ### Hola, I'm Marcus Aaron Baga 👋
 
 - 🔭 I’m currently working on Kubo IT Consultancy.
-- 🌱 I’m currently learning Flutter/Dart.
+- 🌱 I’m currently learning Flutter/Dart & IOS Development.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Flutter Development or AWS Server Management.
 - 💬 Ask me about Laravel API, VueJS & NuxtJS, MySQL, Digital Ocean Server Management, 3rd party integration, Bot Messenger Integration or any tech related stuff.
